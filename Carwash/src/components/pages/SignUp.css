@@ -1,0 +1,40 @@
+ .container{
+     
+     margin:auto;
+     border-radius: 3px;
+     background-color: white;
+ }
+ h2{
+     text-align: center;
+     padding-top: 15px;
+     padding-bottom: 15px;
+ }
+ .form{
+    width: 500px;
+    margin: 40px auto;
+    padding: 50px  30px;
+    background-color:rgb(186, 209, 218);
+    border-radius: 0.4rem;
+    box-shadow: 10px 10px 10px rgba(80, 60, 60, 0.5);
+ }
+ label{
+     display:flex;
+     margin-top: 20x;
+     font-size: 18px;
+     
+ }
+ .input{
+     width: 100%;
+
+ }
+ .submit{
+     width:320px;
+     height:35px;
+     margin-top:20px;
+     border-radius: 0.4rem;
+     border:none;
+     color: rgb(185, 158, 158);
+     font-size:18px;
+ }
+ 
+ 
